@@ -1,5 +1,5 @@
 # HashTable - Easy
 
-| Problem                                           | Solution               |
-|---------------------------------------------------|------------------------|
-| [Two Sum](https://leetcode.com/problems/two-sum/) | [Java](./Two_sum.java) |
+| Problem                                                          | Solution               |
+|------------------------------------------------------------------|------------------------|
+| [Two_Sum 1 ](https://leetcode.com/problems/two-sum/description/) | [Java](./Two_sum.java) |
