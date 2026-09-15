@@ -6,3 +6,4 @@
 | [27. Remove Element](https://leetcode.com/problems/remove-element/)             | [Java](./Remove_Element.java)         |
 | [TCS_question]()                                                                | [java](./TCS_question.java)           |
 | [705. Design HashSet](https://leetcode.com/problems/design-hashset/)            | [Java](./MyHashSet.java)              |
+| [706. MyHashMap] (https://leetcode.com/problems/design-hashmap/description/)    | [Java](./MyHashMap.java)              |
