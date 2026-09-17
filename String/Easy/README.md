@@ -1,8 +1,9 @@
 # Strings - Easy
 
-| Problem                                                                           | Solution                             |
-|-----------------------------------------------------------------------------------|--------------------------------------|
-| [3110.Score of a String](https://leetcode.com/problems/score-of-a-string/)        | [Java](./Score_of_a_String.java)     |
-| [14.Longest_ common_prefix](https://leetcode.com/problems/longest-common-prefix/) | [Java](./Longest_Common_Prefix.java) |
-| [344. Reverse String](https://leetcode.com/problems/reverse-string/description/)  | [Java](./Reverse_String)             |
-| [125. Valid Palandrome](https://leetcode.com/problems/valid-palindrome/)          | [Java](./Valid_Palandrome)           |
+| Problem                                                                                   | Solution                             |
+|-------------------------------------------------------------------------------------------|--------------------------------------|
+| [3110.Score of a String](https://leetcode.com/problems/score-of-a-string/)                | [Java](./Score_of_a_String.java)     |
+| [14.Longest_ common_prefix](https://leetcode.com/problems/longest-common-prefix/)         | [Java](./Longest_Common_Prefix.java) |
+| [344. Reverse String](https://leetcode.com/problems/reverse-string/description/)          | [Java](./Reverse_String)             |
+| [125. Valid Palandrome](https://leetcode.com/problems/valid-palindrome/)                  | [Java](./Valid_Palandrome)           |
+| [680. Valid palandrome 2](https://leetcode.com/problems/valid-palindrome-ii/description/) | [Java](Valid_Palondrome_2.java)      |
