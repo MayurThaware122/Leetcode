@@ -7,3 +7,4 @@
 | [TCS_question]()                                                                | [java](./TCS_question.java)           |
 | [705. Design HashSet](https://leetcode.com/problems/design-hashset/)            | [Java](./MyHashSet.java)              |
 | [706. MyHashMap] (https://leetcode.com/problems/design-hashmap/description/)    | [Java](./MyHashMap.java)              |
+| [88 . merge sort array](https://leetcode.com/problems/merge-sorted-array/)      | [Java](./Merge_Sort_Array.java)       |
