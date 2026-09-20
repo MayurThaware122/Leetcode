@@ -3,7 +3,6 @@ package Arrays.Easy;
 import java.util.Arrays;
 
 //Practice Problem: Sort Array Without Moving Prime Numbers
-//Difficulty: Easy–Medium
 //Topic: Arrays, Bubble Sort, Prime Numbers
 //Problem Statement
 //Given an integer array arr[],
