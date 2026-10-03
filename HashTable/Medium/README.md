@@ -1,6 +1,7 @@
 # HashTable - Arrays.Medium
 
-| Problem                                                                                          | Solution                        |
-|--------------------------------------------------------------------------------------------------|---------------------------------|
-| [Group Anagram 49](https://leetcode.com/problems/group-anagrams/)                                | [Java](./Group_Anagrams.java)   |
-| [347. K th frequent element](https://leetcode.com/problems/top-k-frequent-elements/description/) | [java](K_Frequent_Element.java) |
+| Problem                                                                                          | Solution                          |
+|--------------------------------------------------------------------------------------------------|-----------------------------------|
+| [Group Anagram 49](https://leetcode.com/problems/group-anagrams/)                                | [Java](./Group_Anagrams.java)     |
+| [347. K th frequent element](https://leetcode.com/problems/top-k-frequent-elements/description/) | [java](K_Frequent_Element.java)   |
+| [229. Majority Element 2](https://leetcode.com/problems/majority-element-ii/description/)        | [Java](./Majority_Element_2.java) |
