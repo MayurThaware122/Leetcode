@@ -11,3 +11,4 @@
 | [26 . remove duplicate from sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Java](./Remove_dup.java)             |
 | [219. conatins duplicate 2 sliding window](https://leetcode.com/problems/contains-duplicate-ii/description/)              | [Java](./Contains_Duplicate_2.java)   | 
 | [121. Best time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)        | [Java](./Stock_Buy_Sell.java)         |
+ | [704. Binary search](https://leetcode.com/problems/binary-search/) | [Java](./Binary_Search.java)          |
